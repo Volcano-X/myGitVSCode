@@ -8,3 +8,5 @@ The block/cell (add) shows python code (add something).
 This a new line 1.
 This a new line 2.
 Add a new line.
+
+Something different.
